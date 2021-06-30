@@ -14,4 +14,4 @@
 後續加工：\
 程式打包使用pyinstaller\
 合併exe使用iexpress\
-更換icon使用resourse hacker\
+更換icon使用resourse hacker
